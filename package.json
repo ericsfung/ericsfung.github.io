@@ -1,0 +1,22 @@
+{
+  "name": "ericsfung.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericsfung/ericsfung.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericsfung/ericsfung.github.io/issues"
+  },
+  "homepage": "https://github.com/ericsfung/ericsfung.github.io#readme",
+  "dependencies": {
+    "node-dig-dns": "^0.2.10"
+  }
+}
